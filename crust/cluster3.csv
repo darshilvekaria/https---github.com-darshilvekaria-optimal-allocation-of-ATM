@@ -1,0 +1,43 @@
+,categories,latitude,longitude,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+0,Train Station,49.286005,-123.111816,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+15,Train Station,49.27566,-123.118803,Burnaby,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+30,Train Station,49.285665,-123.111787,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+60,Train Station,49.285758,-123.111714,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+75,Train Station,49.274594,-123.121875,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+90,Train Station,49.280481,-123.108992,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+105,Train Station,49.285572,-123.11186,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+120,Supermarket,49.279935,-123.108135,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+135,Supermarket,49.275299,-123.120475,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+150,Supermarket,49.275737,-123.124244,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+165,Supermarket,49.280467,-123.11897,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+180,Supermarket,49.282576,-123.107386,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+195,Supermarket,49.280117,-123.117561,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+210,Mall,49.284708,-123.111949,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+225,Mall,49.282063,-123.117808,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+240,Mall,49.280244,-123.106701,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+255,Mall,49.2803,-123.106705,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+270,Train Station,49.273708,-123.098032,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+285,Train Station,49.273744,-123.097954,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+300,Train Station,49.273719,-123.097627,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+315,Train Station,49.273765,-123.098037,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+330,Train Station,49.27376,-123.097793,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+345,Train Station,49.274161,-123.09807,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+360,Train Station,49.268529,-123.08591,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+375,Train Station,49.273117,-123.100334,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+405,Gas Station,49.269349,-123.077624,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+420,Supermarket,49.282928,-123.097437,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+435,Supermarket,49.278582,-123.093335,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+450,Supermarket,49.278744,-123.100002,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+1163,Train Station,49.285635,-123.120141,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1178,Train Station,49.287028,-123.109469,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1193,Mall,49.286325,-123.118901,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1208,Mall,49.285809,-123.114152,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+198,ATM,49.285572,-123.11186,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+213,ATM,49.285305,-123.11346,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+228,ATM,49.282293,-123.107362,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+243,ATM,49.277389,-123.119518,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+258,ATM,49.276967,-123.12005,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+288,ATM,49.285753,-123.115932,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+519,ATM,49.281029,-123.099385,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+534,ATM,49.28054,-123.099424,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+549,ATM,49.273344,-123.101246,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall

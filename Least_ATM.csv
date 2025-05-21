@@ -1,0 +1,8 @@
+4th Most Common Venue,categories,latitude,longitude,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,5th Most Common Venue
+ATM,Gas Station,49.257076,-123.153303,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Gas Station,49.257055,-123.15322,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Gas Station,49.245006,-123.15381,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Gas Station,49.257346,-123.168002,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Supermarket,49.257554,-123.153669,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Supermarket,49.248667,-123.154934,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station
+ATM,Mall,49.248842,-123.1543,Vancouver,"NWArbutusRidge, NEDunbar-Southlands",0,Gas Station,Supermarket,Mall,Train Station

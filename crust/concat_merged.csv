@@ -1,0 +1,165 @@
+,name,categories,latitude,longitude,Postal Code,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+0,West Coast Express - Waterfront Station,Train Station,49.286005,-123.111816,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+15,Bombardier Transportation Canada Inc,Train Station,49.27566,-123.118803,V6B,Burnaby,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+30,Waterfront Canada Line SkyTrain Station,Train Station,49.285665,-123.111787,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+60,Waterfront Station,Train Station,49.285758,-123.111714,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+75,Yaletown - Roundhouse SkyTrain Station,Train Station,49.274594,-123.121875,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+90,Stadium - Chinatown SkyTrain Station,Train Station,49.280481,-123.108992,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+105,SkyTrain-Waterfront,Train Station,49.285572,-123.11186,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+120,T&T Supermarket,Supermarket,49.279935,-123.108135,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+135,Aburi To-Go by Minami,Supermarket,49.275299,-123.120475,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+150,Choices Markets,Supermarket,49.275737,-123.124244,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+165,H Mart,Supermarket,49.280467,-123.11897,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+180,Nesters Market,Supermarket,49.282576,-123.107386,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+195,Market Place IGA,Supermarket,49.280117,-123.117561,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+210,Harbour Centre,Mall,49.284708,-123.111949,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+225,Vancouver Centre Mall,Mall,49.282063,-123.117808,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+240,International Village Shopping,Mall,49.280244,-123.106701,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+255,Cineplex Cinemas,Mall,49.2803,-123.106705,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+270,Pacific Central Station (XEA),Train Station,49.273708,-123.098032,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+285,The Canadian Prestige Lounge,Train Station,49.273744,-123.097954,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+300,"Pacific Central Station, Vancouver, Bc Canada",Train Station,49.273719,-123.097627,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+315,Via Rail,Train Station,49.273765,-123.098037,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+330,Central Station,Train Station,49.27376,-123.097793,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+345,Rocky Mountaineer Railtours,Train Station,49.274161,-123.09807,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+360,Rocky Mountaineer Vancouver Station,Train Station,49.268529,-123.08591,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+375,Main Street – Science World SkyTrain Station,Train Station,49.273117,-123.100334,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+405,Chevron,Gas Station,49.269349,-123.077624,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+420,Sunrise Market,Supermarket,49.282928,-123.097437,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+435,Finch's Market,Supermarket,49.278582,-123.093335,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+450,Dalina,Supermarket,49.278744,-123.100002,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+472,Vancouver's Downtown Historic Railway,Train Station,49.268634,-123.137588,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+487,Esso,Gas Station,49.248851,-123.128031,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+517,Broadway & Hemlock Esso,Gas Station,49.263733,-123.135709,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+532,Oak Street Mohawk,Gas Station,49.249001,-123.127963,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+547,ASAP Pilot Cars,Train Station,49.261983,-123.144723,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+562,Petro-Canada,Gas Station,49.270034,-123.145899,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+577,Esso,Gas Station,49.267795,-123.145139,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+592,Petro-Canada,Gas Station,49.267733,-123.147567,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+607,Chevron,Gas Station,49.268552,-123.145285,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+622,Esso,Gas Station,49.264068,-123.145307,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+637,Broadway & Burrard Esso Self Serve,Gas Station,49.264016,-123.145546,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+652,La Win Supermarket,Supermarket,49.26362,-123.14357,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+667,Justin's NOFRILLS Vancouver,Supermarket,49.267666,-123.142614,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+682,Donegal Place,Mall,49.272665,-123.14734,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+699,Olympic Village,Train Station,49.266495,-123.115831,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+714,SkyTrain-King Edward,Train Station,49.249271,-123.115904,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+729,Shell,Gas Station,49.248944,-123.127066,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+744,Petro-Canada,Gas Station,49.234178,-123.127671,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+759,Whole Foods,Supermarket,49.263957,-123.115209,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+774,The Mighty Oak,Supermarket,49.254563,-123.109543,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+789,Save-on-Foods,Supermarket,49.264636,-123.114375,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+804,Choices Markets,Supermarket,49.254292,-123.115359,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+819,Safeway King Edward,Supermarket,49.24848,-123.12654,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+834,Oakridge Centre,Mall,49.232131,-123.118335,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+849,City Square Shopping Centre,Mall,49.260894,-123.116489,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+864,King Edward Florist,Mall,49.248542,-123.125897,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+879,Oakridge Concierge Svc,Mall,49.231543,-123.118204,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+920,Commercial - Broadway SkyTrain Station,Train Station,49.262604,-123.069913,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+935,Commercial Broadway Skytrain Station Platform 1,Train Station,49.262598,-123.068777,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+950,Nanaimo SkyTrain Station,Train Station,49.248292,-123.055886,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+965,Shell,Gas Station,49.259874,-123.077875,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+980,Petro-Canada,Gas Station,49.242293,-123.058299,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+995,Petro-Canada,Gas Station,49.26928,-123.057091,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1010,Praxair Canada Inc.,Gas Station,49.266378,-123.077047,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1025,Super Save,Gas Station,49.259802,-123.077139,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1040,Vernon Towing,Gas Station,49.268056,-123.077108,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1055,Grandview Husky Market,Gas Station,49.259298,-123.061764,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1070,Husky,Gas Station,49.239738,-123.065626,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1085,Save-on-Foods,Supermarket,49.248723,-123.075632,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1100,Famous Foods,Supermarket,49.248448,-123.071635,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1115,Canada Safeway Ltd,Supermarket,49.26214,-123.069387,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1130,T&T Supermarket,Supermarket,49.243212,-123.06154,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1145,88 Super Market,Supermarket,49.241227,-123.065589,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1163,Burrard SkyTrain Station,Train Station,49.285635,-123.120141,V6C,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1178,Waterfront SeaBus Terminal,Train Station,49.287028,-123.109469,V6C,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1193,Bentall Centre,Mall,49.286325,-123.118901,V6C,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1208,Sinclair Centre,Mall,49.285809,-123.114152,V6C,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+1223,Esso,Gas Station,49.279037,-123.129717,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1238,Sextant Entertainment Group Inc,Gas Station,49.276973,-123.131893,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1253,Urban Fare,Supermarket,49.289192,-123.122635,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1268,Urban Fare,Supermarket,49.286083,-123.124397,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1283,Fine Foods of the World,Supermarket,49.280669,-123.132047,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1298,Hannam Supermarket,Supermarket,49.287345,-123.128805,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1313,Royal Centre Inc,Mall,49.285368,-123.12174,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1328,Shell,Gas Station,49.234612,-123.140111,V6M,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1343,Esso,Gas Station,49.22623,-123.128938,V6M,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1358,Esso,Gas Station,49.233932,-123.139162,V6M,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1373,Esso,Gas Station,49.257076,-123.153303,V6L,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1388,Tim Hortons,Gas Station,49.257003,-123.153459,V6L,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1403,Chevron,Gas Station,49.257346,-123.168002,V6L,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1418,Safeway,Supermarket,49.248585,-123.154603,V6L,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1433,Rotary Club of Vancouver Arbutus,Mall,49.248842,-123.1543,V6L,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1448,Petro-Canada,Gas Station,49.263823,-123.168639,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1463,Shell,Gas Station,49.264088,-123.153418,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1478,Canada Safeway Ltd,Supermarket,49.268597,-123.158183,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1493,Canada Safeway Ltd,Supermarket,49.264214,-123.167538,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1508,Whole Foods,Supermarket,49.268458,-123.156955,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1523,Parthenon Super Market,Supermarket,49.264037,-123.173523,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1538,Marketplace Iga,Supermarket,49.263655,-123.15703,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1553,Petro-Canada,Gas Station,49.239983,-123.076838,V5W,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1568,Shell,Gas Station,49.2324,-123.077575,V5W,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1583,Chevron,Gas Station,49.232701,-123.101034,V5W,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1598,East West Market,Supermarket,49.248262,-123.101383,V5W,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1613,Shell,Gas Station,49.280783,-123.066097,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1628,Chevron,Gas Station,49.281057,-123.078779,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1643,Petro-Pass Truck Stop,Gas Station,49.283078,-123.073757,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1658,Jackson Auto Repair Ltd,Gas Station,49.281354,-123.066389,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1673,Husky,Gas Station,49.285183,-123.063954,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1688,Donald's Market,Supermarket,49.281003,-123.05719,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1703,Sweet Cherubim,Supermarket,49.274756,-123.069725,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1718,Fujiya Japanese Foods,Supermarket,49.276572,-123.077019,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1733,Super Valu,Supermarket,49.269736,-123.070274,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1748,Il Mercato,Mall,49.269963,-123.070293,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1763,Lombardo's Pizzeria & Restaurant,Mall,49.270086,-123.069898,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1783,Chevron,Gas Station,49.21667,-123.117505,V6P,Vancouver,"S E Kerrisdale, S W Oakridge, West Marpole",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1798,Chevron,Gas Station,49.269124,-123.056023,V5M,Vancouver,"South Hastings-Sunrise, North Renfrew-Collingwood",0,Gas Station,Supermarket,ATM,Mall,Train Station
+1813,T&T Supermarket,Supermarket,49.269004,-123.046195,V5M,Vancouver,"South Hastings-Sunrise, North Renfrew-Collingwood",0,Gas Station,Supermarket,ATM,Mall,Train Station
+1828,Safeway Canada,Supermarket,49.285456,-123.13927,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1843,Whole Foods,Supermarket,49.290103,-123.132772,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1858,Aria Market,Supermarket,49.290288,-123.134411,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1873,Freshco Food Mart,Supermarket,49.289403,-123.129062,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1888,Brandon & Joanny's NOFRILLS Vancouver,Supermarket,49.288405,-123.138874,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1903,Safeway Pharmacy Robson,Supermarket,49.290999,-123.135039,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1918,Robson Public Market,Mall,49.289465,-123.13288,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1933,Vancouver Luggage Warehouse,Mall,49.289522,-123.132885,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1948,Denman Place Dental Centre,Mall,49.288837,-123.13883,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+3,TD Bank Financial Group,ATM,49.248696,-123.12518,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+18,TD Bank Financial Group,ATM,49.233923,-123.116623,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+33,TD Bank Financial Group,ATM,49.263588,-123.122639,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+48,TD Bank Financial Group,ATM,49.254709,-123.115475,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+63,RBC Royal Bank,ATM,49.263432,-123.115327,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+78,Td Bank,ATM,49.262984,-123.115532,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+93,TD Canada Trust Branch and ATM,ATM,49.254786,-123.115563,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+108,President's Choice Financial ATM,ATM,49.263701,-123.123541,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+123,TD Canada Trust Branch and ATM,ATM,49.248676,-123.125097,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+138,TD Canada Trust ATM,ATM,49.248552,-123.125492,V5Z,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+153,TD Bank Financial Group,ATM,49.285909,-123.140201,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+168,TD Canada Trust ABM,ATM,49.287983,-123.134944,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+183,RBC Royal Bank,ATM,49.290005,-123.137956,V6G,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+198,RBC Royal Bank ATM,ATM,49.285572,-123.11186,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+213,RBC Royal Bank,ATM,49.285305,-123.11346,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+228,TD Bank Financial Group,ATM,49.282293,-123.107362,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+243,RBC Royal Bank,ATM,49.277389,-123.119518,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+258,TD Bank Financial Group,ATM,49.276967,-123.12005,V6B,Vancouver,"N E Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",2,Train Station,Supermarket,ATM,Mall,Gas Station
+273,TD Bank Financial Group,ATM,49.281311,-123.054863,V5K,Vancouver,North Hastings-Sunrise,1,ATM,Gas Station,Mall,Supermarket,Train Station
+288,National Bank Financial,ATM,49.285753,-123.115932,V6C,Vancouver,"Waterfront, Coal Harbour, Canada Place",2,Mall,Train Station,ATM,Gas Station,Supermarket
+303,TD Bank Financial Group,ATM,49.2886,-123.121367,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+318,Private Banking 1859,ATM,49.284817,-123.123316,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+333,RBC Royal Bank,ATM,49.284848,-123.121209,V6E,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+350,RBC Royal Bank,ATM,49.26937,-123.069918,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+365,TD Bank Financial Group,ATM,49.249588,-123.075543,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+380,TD Bank Financial Group,ATM,49.245791,-123.065651,V5N,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+399,TD Bank Financial Group,ATM,49.260541,-123.138923,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+414,RBC Royal Bank,ATM,49.261241,-123.139064,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+429,Bitcoin Depot ATM,ATM,49.263357,-123.13665,V6H,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+444,RBC Royal Bank,ATM,49.264394,-123.16804,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+459,RBC Royal Bank,ATM,49.268365,-123.159704,V6K,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+474,Vancity Savings Credit Union,ATM,49.269746,-123.069869,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+489,RBC Royal Bank,ATM,49.281317,-123.056892,V5L,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+504,TD Bank Financial Group,ATM,49.268299,-123.148507,V6J,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+519,RBC Royal Bank,ATM,49.281029,-123.099385,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+534,TD Bank Financial Group,ATM,49.28054,-123.099424,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+549,Vancity - ATM,ATM,49.273344,-123.101246,V6A,Vancouver,"Strathcona, Chinatown, Downtown Eastside",2,Train Station,ATM,Supermarket,Gas Station,Mall
+566,TD Bank Financial Group,ATM,49.234489,-123.15834,V6M,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+581,RBC Royal Bank,ATM,49.225319,-123.091002,V5X,Vancouver,"S E Oakridge, East Marpole, South Sunset",1,ATM,Gas Station,Mall,Supermarket,Train Station

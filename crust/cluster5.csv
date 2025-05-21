@@ -1,0 +1,10 @@
+,categories,latitude,longitude,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+1328,Gas Station,49.234612,-123.140111,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1343,Gas Station,49.22623,-123.128938,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1358,Gas Station,49.233932,-123.139162,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station
+1553,Gas Station,49.239983,-123.076838,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1568,Gas Station,49.2324,-123.077575,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1583,Gas Station,49.232701,-123.101034,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1598,Supermarket,49.248262,-123.101383,Vancouver,"S E Riley Park-Little Mountain, S W Kensington-Cedar Cottage, N E Oakridge, North Sunset",4,Gas Station,Supermarket,ATM,Mall,Train Station
+1783,Gas Station,49.21667,-123.117505,Vancouver,"S E Kerrisdale, S W Oakridge, West Marpole",4,Gas Station,ATM,Mall,Supermarket,Train Station
+566,ATM,49.234489,-123.15834,Vancouver,"South Shaughnessy, N W Oakridge, N E Kerrisdale, S E Arbutus Ridge",4,Gas Station,ATM,Mall,Supermarket,Train Station

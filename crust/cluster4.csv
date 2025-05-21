@@ -1,0 +1,55 @@
+,categories,latitude,longitude,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+699,Train Station,49.266495,-123.115831,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+714,Train Station,49.249271,-123.115904,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+729,Gas Station,49.248944,-123.127066,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+744,Gas Station,49.234178,-123.127671,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+759,Supermarket,49.263957,-123.115209,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+774,Supermarket,49.254563,-123.109543,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+789,Supermarket,49.264636,-123.114375,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+804,Supermarket,49.254292,-123.115359,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+819,Supermarket,49.24848,-123.12654,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+834,Mall,49.232131,-123.118335,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+849,Mall,49.260894,-123.116489,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+864,Mall,49.248542,-123.125897,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+879,Mall,49.231543,-123.118204,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+1223,Gas Station,49.279037,-123.129717,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1238,Gas Station,49.276973,-123.131893,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1253,Supermarket,49.289192,-123.122635,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1268,Supermarket,49.286083,-123.124397,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1283,Supermarket,49.280669,-123.132047,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1298,Supermarket,49.287345,-123.128805,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1313,Mall,49.285368,-123.12174,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1448,Gas Station,49.263823,-123.168639,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1463,Gas Station,49.264088,-123.153418,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1478,Supermarket,49.268597,-123.158183,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1493,Supermarket,49.264214,-123.167538,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1508,Supermarket,49.268458,-123.156955,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1523,Supermarket,49.264037,-123.173523,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1538,Supermarket,49.263655,-123.15703,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+1828,Supermarket,49.285456,-123.13927,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1843,Supermarket,49.290103,-123.132772,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1858,Supermarket,49.290288,-123.134411,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1873,Supermarket,49.289403,-123.129062,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1888,Supermarket,49.288405,-123.138874,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1903,Supermarket,49.290999,-123.135039,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1918,Mall,49.289465,-123.13288,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1933,Mall,49.289522,-123.132885,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+1948,Mall,49.288837,-123.13883,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+3,ATM,49.248696,-123.12518,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+18,ATM,49.233923,-123.116623,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+33,ATM,49.263588,-123.122639,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+48,ATM,49.254709,-123.115475,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+63,ATM,49.263432,-123.115327,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+78,ATM,49.262984,-123.115532,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+93,ATM,49.254786,-123.115563,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+108,ATM,49.263701,-123.123541,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+123,ATM,49.248676,-123.125097,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+138,ATM,49.248552,-123.125492,Vancouver,"East Fairview, South Cambie",3,ATM,Supermarket,Mall,Gas Station,Train Station
+153,ATM,49.285909,-123.140201,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+168,ATM,49.287983,-123.134944,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+183,ATM,49.290005,-123.137956,Vancouver,"N W West End, Stanley Park",3,Supermarket,ATM,Mall,Gas Station,Train Station
+303,ATM,49.2886,-123.121367,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+318,ATM,49.284817,-123.123316,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+333,ATM,49.284848,-123.121209,Vancouver,"S E West End, Davie Village",3,Supermarket,ATM,Gas Station,Mall,Train Station
+444,ATM,49.264394,-123.16804,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station
+459,ATM,49.268365,-123.159704,Vancouver,"Central Kitsilano, Greektown",3,Supermarket,ATM,Gas Station,Mall,Train Station

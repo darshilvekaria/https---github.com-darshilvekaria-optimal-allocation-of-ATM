@@ -1,0 +1,58 @@
+,categories,latitude,longitude,locality,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue
+472,Train Station,49.268634,-123.137588,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+487,Gas Station,49.248851,-123.128031,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+517,Gas Station,49.263733,-123.135709,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+532,Gas Station,49.249001,-123.127963,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+547,Train Station,49.261983,-123.144723,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+562,Gas Station,49.270034,-123.145899,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+577,Gas Station,49.267795,-123.145139,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+592,Gas Station,49.267733,-123.147567,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+607,Gas Station,49.268552,-123.145285,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+622,Gas Station,49.264068,-123.145307,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+637,Gas Station,49.264016,-123.145546,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+652,Supermarket,49.26362,-123.14357,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+667,Supermarket,49.267666,-123.142614,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+682,Mall,49.272665,-123.14734,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
+920,Train Station,49.262604,-123.069913,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+935,Train Station,49.262598,-123.068777,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+950,Train Station,49.248292,-123.055886,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+965,Gas Station,49.259874,-123.077875,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+980,Gas Station,49.242293,-123.058299,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+995,Gas Station,49.26928,-123.057091,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1010,Gas Station,49.266378,-123.077047,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1025,Gas Station,49.259802,-123.077139,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1040,Gas Station,49.268056,-123.077108,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1055,Gas Station,49.259298,-123.061764,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1070,Gas Station,49.239738,-123.065626,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1085,Supermarket,49.248723,-123.075632,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1100,Supermarket,49.248448,-123.071635,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1115,Supermarket,49.26214,-123.069387,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1130,Supermarket,49.243212,-123.06154,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1145,Supermarket,49.241227,-123.065589,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+1373,Gas Station,49.257076,-123.153303,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1388,Gas Station,49.257003,-123.153459,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1403,Gas Station,49.257346,-123.168002,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1418,Supermarket,49.248585,-123.154603,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1433,Mall,49.248842,-123.1543,Vancouver,"N W Arbutus Ridge, N E Dunbar-Southlands",0,Gas Station,Mall,Supermarket,ATM,Train Station
+1613,Gas Station,49.280783,-123.066097,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1628,Gas Station,49.281057,-123.078779,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1643,Gas Station,49.283078,-123.073757,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1658,Gas Station,49.281354,-123.066389,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1673,Gas Station,49.285183,-123.063954,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1688,Supermarket,49.281003,-123.05719,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1703,Supermarket,49.274756,-123.069725,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1718,Supermarket,49.276572,-123.077019,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1733,Supermarket,49.269736,-123.070274,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1748,Mall,49.269963,-123.070293,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1763,Mall,49.270086,-123.069898,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+1798,Gas Station,49.269124,-123.056023,Vancouver,"South Hastings-Sunrise, North Renfrew-Collingwood",0,Gas Station,Supermarket,ATM,Mall,Train Station
+1813,Supermarket,49.269004,-123.046195,Vancouver,"South Hastings-Sunrise, North Renfrew-Collingwood",0,Gas Station,Supermarket,ATM,Mall,Train Station
+350,ATM,49.26937,-123.069918,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+365,ATM,49.249588,-123.075543,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+380,ATM,49.245791,-123.065651,Vancouver,"South Grandview-Woodland, N E Kensington-Cedar Cottage",0,Gas Station,Supermarket,ATM,Train Station,Mall
+399,ATM,49.260541,-123.138923,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+414,ATM,49.261241,-123.139064,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+429,ATM,49.263357,-123.13665,Vancouver,"West Fairview, Granville Island, N E Shaughnessy",0,ATM,Gas Station,Train Station,Mall,Supermarket
+474,ATM,49.269746,-123.069869,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+489,ATM,49.281317,-123.056892,Vancouver,North Grandview-Woodland,0,Gas Station,Supermarket,ATM,Mall,Train Station
+504,ATM,49.268299,-123.148507,Vancouver,"N W Shaughnessy, East Kitsilano, Quilchena",0,Gas Station,Supermarket,ATM,Mall,Train Station
